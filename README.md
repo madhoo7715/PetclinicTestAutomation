@@ -1,1 +1,3 @@
 # PetclinicTestAutomation
+
+mvn clean test
